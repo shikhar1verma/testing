@@ -1,7 +1,9 @@
-#this is my app
+# this is my app
 
-##introduction
+## introduction
 
-##purpose
+## purpose
 
-##how to code
+## how to code
+
+## the other one
