@@ -10,3 +10,7 @@ this is the introduction of the app
 this is the last one
 
 ## how to code
+now you'll be knowing how to code
+
+## copyright
+here the copyright of the @title
