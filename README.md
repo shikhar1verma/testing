@@ -4,6 +4,4 @@
 
 ## purpose
 
-## how to code
-
 ## the other one
