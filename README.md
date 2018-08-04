@@ -1,6 +1,7 @@
 # this is my app
 this is my aapp and this is its itroduction
 adding the line for rebasing
+this change is from the feature branch
 
 ## introduction
 this is the introduction of the app
